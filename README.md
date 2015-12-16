@@ -1,2 +1,2 @@
 # toolDate
-Gerador de datas de vencimentos. 
+Gerador de datas de vencimentos das parcelas. 
